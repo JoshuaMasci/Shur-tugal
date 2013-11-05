@@ -1,0 +1,22 @@
+[
+{
+  "modid": "Shur'tugal",
+  "name": "Shur'tugal",
+  "description": "Bringing Eragon Dragon Riders to minecraft",
+  "version": "0.5.4",
+  "mcversion": "1.6.2",
+  "url": "http://www.minecraftforum.net/topic/1193276-wip-145-forgethe-shurtugal-mod-now-accepting-texturers/",
+  "updateUrl": "",
+  "authors": [
+    "Iamshortman",
+    "ICodeMaster"
+  ],
+  "credits": "to BarracudaATA for making DragonMounts open source",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
